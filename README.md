@@ -188,7 +188,6 @@ I have not tested if the full functionality is available (topup/new service crea
 - Update for Pixel 9 Pro XL:
 I, @Tweak4141 tried the above, since I did not want to play the SafetyNet cat and mouse game, I provisioned FeliCa after rooting the phone and using Magisk with jjyao88's Magisk module:
 https://github.com/jjyao88/unlock-felica-pixel
-
 After unrooting the phone, the provisioned account remained, and I was able to load up a Suica card and use it successfully on the JR trains, and the Tokyo metro. Additonally, I was able to top it up at FamilyMart, and also spend balance. I was also able to provision and use a new Waon card, and create a new PASMO card.
 
 
